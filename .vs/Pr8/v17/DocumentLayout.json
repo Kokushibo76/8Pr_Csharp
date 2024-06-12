@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nfrol\\Desktop\\\u041C\u041F\u0422 2 \u043A\u0443\u0440\u0441\\Prog.sln\\Pr8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8989443A-E449-49F6-8820-9F1CA73FD374}|Pr8\\Pr8.csproj|c:\\users\\nfrol\\desktop\\\u043C\u043F\u0442 2 \u043A\u0443\u0440\u0441\\prog.sln\\pr8\\pr8\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8989443A-E449-49F6-8820-9F1CA73FD374}|Pr8\\Pr8.csproj|solutionrelative:pr8\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8989443A-E449-49F6-8820-9F1CA73FD374}|Pr8\\Pr8.csproj|C:\\Users\\nfrol\\Desktop\\\u041C\u041F\u0422 2 \u043A\u0443\u0440\u0441\\Prog.sln\\Pr8\\Pr8\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8989443A-E449-49F6-8820-9F1CA73FD374}|Pr8\\Pr8.csproj|solutionrelative:Pr8\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nfrol\\Desktop\\\u041C\u041F\u0422 2 \u043A\u0443\u0440\u0441\\Prog.sln\\Pr8\\Pr8\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Pr8\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nfrol\\Desktop\\\u041C\u041F\u0422 2 \u043A\u0443\u0440\u0441\\Prog.sln\\Pr8\\Pr8\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Pr8\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:38:03.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nfrol\\Desktop\\\u041C\u041F\u0422 2 \u043A\u0443\u0440\u0441\\Prog.sln\\Pr8\\Pr8\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Pr8\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\nfrol\\Desktop\\\u041C\u041F\u0422 2 \u043A\u0443\u0440\u0441\\Prog.sln\\Pr8\\Pr8\\MainWindow.xaml",
+              "RelativeToolTip": "Pr8\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T16:38:09.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
